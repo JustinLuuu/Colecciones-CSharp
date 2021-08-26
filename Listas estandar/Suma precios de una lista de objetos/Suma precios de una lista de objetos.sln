@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suma precios de una lista de objetos", "Suma precios de una lista de objetos\Suma precios de una lista de objetos.csproj", "{977110F9-D63E-4C39-A639-783CD3D30EEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977110F9-D63E-4C39-A639-783CD3D30EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977110F9-D63E-4C39-A639-783CD3D30EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977110F9-D63E-4C39-A639-783CD3D30EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977110F9-D63E-4C39-A639-783CD3D30EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEBA50D7-5E05-40E0-9EE2-063AF66B7564}
+	EndGlobalSection
+EndGlobal

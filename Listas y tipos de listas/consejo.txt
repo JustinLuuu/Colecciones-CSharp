@@ -1,0 +1,5 @@
+si queremos que nuestro programa elimine y agregue 
+elementos de manera frecuente o secuencial es mas
+eficiente hacer uso del LinkedList ya que hace que 
+nuestro programa sea mas ligero y mas optimizado a 
+la hora de hacer acciones de eliminar, agregar, etc.

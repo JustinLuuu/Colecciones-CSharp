@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\LinkedList iteraciones y recorridos part. 2\LinkedList iteraciones y recorridos part. 2\bin\Debug\LinkedList iteraciones y recorridos part. 2.exe.config
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\LinkedList iteraciones y recorridos part. 2\LinkedList iteraciones y recorridos part. 2\bin\Debug\LinkedList iteraciones y recorridos part. 2.exe
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\LinkedList iteraciones y recorridos part. 2\LinkedList iteraciones y recorridos part. 2\bin\Debug\LinkedList iteraciones y recorridos part. 2.pdb
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\LinkedList iteraciones y recorridos part. 2\LinkedList iteraciones y recorridos part. 2\obj\Debug\LinkedList iteraciones y recorridos part. 2.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\LinkedList iteraciones y recorridos part. 2\LinkedList iteraciones y recorridos part. 2\obj\Debug\LinkedList iteraciones y recorridos part. 2.exe
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\LinkedList iteraciones y recorridos part. 2\LinkedList iteraciones y recorridos part. 2\obj\Debug\LinkedList iteraciones y recorridos part. 2.pdb
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\LinkedList iteraciones y recorridos part. 2\LinkedList iteraciones y recorridos part. 2\obj\Debug\LinkedList iteraciones y recorridos part. 2.csprojAssemblyReference.cache

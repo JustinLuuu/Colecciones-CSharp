@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Suma precios de una lista de objetos\Suma precios de una lista de objetos\bin\Debug\Suma precios de una lista de objetos.exe.config
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Suma precios de una lista de objetos\Suma precios de una lista de objetos\bin\Debug\Suma precios de una lista de objetos.exe
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Suma precios de una lista de objetos\Suma precios de una lista de objetos\bin\Debug\Suma precios de una lista de objetos.pdb
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Suma precios de una lista de objetos\Suma precios de una lista de objetos\obj\Debug\Suma precios de una lista de objetos.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Suma precios de una lista de objetos\Suma precios de una lista de objetos\obj\Debug\Suma precios de una lista de objetos.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Suma precios de una lista de objetos\Suma precios de una lista de objetos\obj\Debug\Suma precios de una lista de objetos.exe
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Suma precios de una lista de objetos\Suma precios de una lista de objetos\obj\Debug\Suma precios de una lista de objetos.pdb

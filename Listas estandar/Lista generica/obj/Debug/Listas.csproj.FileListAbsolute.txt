@@ -1,0 +1,14 @@
+C:\Users\justi\source\repos\Listas\Listas\bin\Debug\Listas.exe.config
+C:\Users\justi\source\repos\Listas\Listas\bin\Debug\Listas.exe
+C:\Users\justi\source\repos\Listas\Listas\bin\Debug\Listas.pdb
+C:\Users\justi\source\repos\Listas\Listas\obj\Debug\Listas.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Listas\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Listas\Listas\obj\Debug\Listas.exe
+C:\Users\justi\source\repos\Listas\Listas\obj\Debug\Listas.pdb
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\Listas estandar\Listas\bin\Debug\Listas.exe.config
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\Listas estandar\Listas\bin\Debug\Listas.exe
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\Listas estandar\Listas\bin\Debug\Listas.pdb
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\Listas estandar\Listas\obj\Debug\Listas.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\Listas estandar\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\Listas estandar\Listas\obj\Debug\Listas.exe
+C:\Users\justi\source\repos\Esenciales\Listas y tipos de listas\Listas estandar\Listas\obj\Debug\Listas.pdb

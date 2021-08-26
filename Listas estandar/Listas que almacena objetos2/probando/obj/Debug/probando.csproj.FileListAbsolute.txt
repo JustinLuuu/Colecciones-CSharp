@@ -1,0 +1,7 @@
+C:\Users\justi\OneDrive\Escritorio\probando\probando\bin\Debug\probando.exe.config
+C:\Users\justi\OneDrive\Escritorio\probando\probando\bin\Debug\probando.exe
+C:\Users\justi\OneDrive\Escritorio\probando\probando\bin\Debug\probando.pdb
+C:\Users\justi\OneDrive\Escritorio\probando\probando\obj\Debug\probando.csprojAssemblyReference.cache
+C:\Users\justi\OneDrive\Escritorio\probando\probando\obj\Debug\probando.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\probando\probando\obj\Debug\probando.exe
+C:\Users\justi\OneDrive\Escritorio\probando\probando\obj\Debug\probando.pdb

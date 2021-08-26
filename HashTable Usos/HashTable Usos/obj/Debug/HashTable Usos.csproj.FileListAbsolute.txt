@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\Colecciones\HashTable Usos\HashTable Usos\bin\Debug\HashTable Usos.exe.config
+C:\Users\justi\source\repos\Colecciones\HashTable Usos\HashTable Usos\bin\Debug\HashTable Usos.exe
+C:\Users\justi\source\repos\Colecciones\HashTable Usos\HashTable Usos\bin\Debug\HashTable Usos.pdb
+C:\Users\justi\source\repos\Colecciones\HashTable Usos\HashTable Usos\obj\Debug\HashTable Usos.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Colecciones\HashTable Usos\HashTable Usos\obj\Debug\HashTable Usos.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Colecciones\HashTable Usos\HashTable Usos\obj\Debug\HashTable Usos.exe
+C:\Users\justi\source\repos\Colecciones\HashTable Usos\HashTable Usos\obj\Debug\HashTable Usos.pdb

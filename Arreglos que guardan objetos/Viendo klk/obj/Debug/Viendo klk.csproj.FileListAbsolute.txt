@@ -1,0 +1,14 @@
+C:\Users\justi\OneDrive\Escritorio\Viendo klk\Viendo klk\obj\Debug\Viendo klk.csprojAssemblyReference.cache
+C:\Users\justi\OneDrive\Escritorio\Viendo klk\Viendo klk\obj\Debug\Viendo klk.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Viendo klk\Viendo klk\bin\Debug\Viendo klk.exe.config
+C:\Users\justi\OneDrive\Escritorio\Viendo klk\Viendo klk\bin\Debug\Viendo klk.exe
+C:\Users\justi\OneDrive\Escritorio\Viendo klk\Viendo klk\bin\Debug\Viendo klk.pdb
+C:\Users\justi\OneDrive\Escritorio\Viendo klk\Viendo klk\obj\Debug\Viendo klk.exe
+C:\Users\justi\OneDrive\Escritorio\Viendo klk\Viendo klk\obj\Debug\Viendo klk.pdb
+C:\Users\justi\source\repos\Colecciones\Arreglos que guardan objetos\Viendo klk\bin\Debug\Viendo klk.exe.config
+C:\Users\justi\source\repos\Colecciones\Arreglos que guardan objetos\Viendo klk\bin\Debug\Viendo klk.exe
+C:\Users\justi\source\repos\Colecciones\Arreglos que guardan objetos\Viendo klk\bin\Debug\Viendo klk.pdb
+C:\Users\justi\source\repos\Colecciones\Arreglos que guardan objetos\Viendo klk\obj\Debug\Viendo klk.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Colecciones\Arreglos que guardan objetos\Viendo klk\obj\Debug\Viendo klk.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Colecciones\Arreglos que guardan objetos\Viendo klk\obj\Debug\Viendo klk.exe
+C:\Users\justi\source\repos\Colecciones\Arreglos que guardan objetos\Viendo klk\obj\Debug\Viendo klk.pdb

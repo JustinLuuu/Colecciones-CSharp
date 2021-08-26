@@ -1,0 +1,14 @@
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary usos\bin\Debug\Dictionary usos.exe.config
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary usos\bin\Debug\Dictionary usos.exe
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary usos\bin\Debug\Dictionary usos.pdb
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary usos\obj\Debug\Dictionary usos.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary usos\obj\Debug\Dictionary usos.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary usos\obj\Debug\Dictionary usos.exe
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary usos\obj\Debug\Dictionary usos.pdb
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary con conexion a BD\Dictionary usos\bin\Debug\Dictionary usos.exe.config
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary con conexion a BD\Dictionary usos\bin\Debug\Dictionary usos.exe
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary con conexion a BD\Dictionary usos\bin\Debug\Dictionary usos.pdb
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary con conexion a BD\Dictionary usos\obj\Debug\Dictionary usos.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary con conexion a BD\Dictionary usos\obj\Debug\Dictionary usos.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary con conexion a BD\Dictionary usos\obj\Debug\Dictionary usos.exe
+C:\Users\justi\source\repos\Colecciones\Dictionary usos\Dictionary con conexion a BD\Dictionary usos\obj\Debug\Dictionary usos.pdb

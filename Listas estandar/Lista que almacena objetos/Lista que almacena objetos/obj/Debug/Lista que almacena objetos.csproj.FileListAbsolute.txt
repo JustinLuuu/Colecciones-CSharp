@@ -1,0 +1,7 @@
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Lista que almacena objetos\Lista que almacena objetos\bin\Debug\Lista que almacena objetos.exe.config
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Lista que almacena objetos\Lista que almacena objetos\bin\Debug\Lista que almacena objetos.exe
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Lista que almacena objetos\Lista que almacena objetos\bin\Debug\Lista que almacena objetos.pdb
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Lista que almacena objetos\Lista que almacena objetos\obj\Debug\Lista que almacena objetos.csprojAssemblyReference.cache
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Lista que almacena objetos\Lista que almacena objetos\obj\Debug\Lista que almacena objetos.csproj.CoreCompileInputs.cache
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Lista que almacena objetos\Lista que almacena objetos\obj\Debug\Lista que almacena objetos.exe
+C:\Users\justi\source\repos\Colecciones\Listas estandar\Lista que almacena objetos\Lista que almacena objetos\obj\Debug\Lista que almacena objetos.pdb
